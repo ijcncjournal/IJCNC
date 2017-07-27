@@ -1,0 +1,2 @@
+# IJCNC
+The International Journal of Computer Networks &amp; Communications (IJCNC) is a bi monthly open access peer-reviewed journal that publishes articles which contribute new results in all areas of Computer Networks &amp; Communications .The journal focuses on all technical and practical aspects of Computer Networks &amp; data Communications. The goal of this journal is to bring together researchers and practitioners from academia and industry to focus on advanced networking concepts and establishing new collaborations in these areas.
